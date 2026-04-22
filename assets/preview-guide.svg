@@ -1,0 +1,139 @@
+<svg width="1280" height="960" viewBox="0 0 1280 960" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="960" rx="28" fill="#F8F7FF"/>
+  <rect x="228" y="44" width="814" height="800" rx="22" fill="white" stroke="#E5E7EB" stroke-width="2"/>
+
+  <text x="280" y="106" fill="#6D28D9" font-family="Arial, sans-serif" font-size="32" font-weight="700">tinylinkr</text>
+  <text x="280" y="140" fill="#6B7280" font-family="Arial, sans-serif" font-size="16">tinylinkr@gmail.com</text>
+  <text x="280" y="172" fill="#6B7280" font-family="Arial, sans-serif" font-size="16">+91-764646774</text>
+  <text x="280" y="204" fill="#6B7280" font-family="Arial, sans-serif" font-size="16">uttar pardesh</text>
+
+  <rect x="776" y="82" width="232" height="136" rx="16" fill="#F8FAFC" stroke="#BFDBFE" stroke-width="2"/>
+  <text x="794" y="126" fill="#374151" font-family="Arial, sans-serif" font-size="16" font-weight="700">Invoice Number:</text>
+  <text x="952" y="126" fill="#6B7280" font-family="Arial, sans-serif" font-size="16">INV-1012</text>
+  <text x="794" y="168" fill="#374151" font-family="Arial, sans-serif" font-size="16" font-weight="700">Invoice Date:</text>
+  <text x="930" y="168" fill="#6B7280" font-family="Arial, sans-serif" font-size="16">2026-04-22</text>
+  <text x="794" y="210" fill="#374151" font-family="Arial, sans-serif" font-size="16" font-weight="700">Due Date:</text>
+  <text x="900" y="210" fill="#6B7280" font-family="Arial, sans-serif" font-size="16">2026-04-22</text>
+
+  <line x1="260" y1="248" x2="1010" y2="248" stroke="#E5E7EB"/>
+
+  <rect x="260" y="278" width="366" height="162" rx="16" fill="#FAFAFA" stroke="#BBF7D0" stroke-width="2"/>
+  <rect x="648" y="278" width="362" height="162" rx="16" fill="#FFFBEB" stroke="#FCD34D" stroke-width="2"/>
+  <text x="282" y="318" fill="#111827" font-family="Arial, sans-serif" font-size="18" font-weight="700">Bill To</text>
+  <text x="282" y="356" fill="#6B7280" font-family="Arial, sans-serif" font-size="16">xyz</text>
+  <text x="282" y="392" fill="#6B7280" font-family="Arial, sans-serif" font-size="16">xyz@gmail.com</text>
+  <text x="282" y="428" fill="#6B7280" font-family="Arial, sans-serif" font-size="16">+91-987377373</text>
+  <text x="670" y="318" fill="#111827" font-family="Arial, sans-serif" font-size="18" font-weight="700">Payment Details</text>
+  <text x="670" y="356" fill="#6B7280" font-family="Arial, sans-serif" font-size="16">Method: ONLINE</text>
+  <text x="670" y="392" fill="#6B7280" font-family="Arial, sans-serif" font-size="16">Bank / UPI: -</text>
+
+  <rect x="260" y="468" width="750" height="118" rx="16" fill="#FAF5FF" stroke="#D8B4FE" stroke-width="2"/>
+  <text x="280" y="510" fill="#374151" font-family="Arial, sans-serif" font-size="16" font-weight="700">ITEM</text>
+  <text x="522" y="510" fill="#374151" font-family="Arial, sans-serif" font-size="16" font-weight="700">QUANTITY</text>
+  <text x="710" y="510" fill="#374151" font-family="Arial, sans-serif" font-size="16" font-weight="700">PRICE</text>
+  <text x="894" y="510" fill="#374151" font-family="Arial, sans-serif" font-size="16" font-weight="700">TOTAL</text>
+  <line x1="280" y1="528" x2="988" y2="528" stroke="#E9D5FF"/>
+  <text x="280" y="562" fill="#475569" font-family="Arial, sans-serif" font-size="16">Development kit</text>
+  <text x="526" y="562" fill="#475569" font-family="Arial, sans-serif" font-size="16">4</text>
+  <text x="710" y="562" fill="#475569" font-family="Arial, sans-serif" font-size="16">Rs 19.99</text>
+  <text x="894" y="562" fill="#475569" font-family="Arial, sans-serif" font-size="16">Rs 79.96</text>
+
+  <rect x="260" y="610" width="372" height="192" rx="16" fill="#EFF6FF" stroke="#93C5FD" stroke-width="2"/>
+  <rect x="654" y="610" width="356" height="192" rx="16" fill="#FFF7ED" stroke="#FDA4AF" stroke-width="2"/>
+  <text x="282" y="648" fill="#111827" font-family="Arial, sans-serif" font-size="18" font-weight="700">Notes</text>
+  <text x="282" y="692" fill="#475569" font-family="Arial, sans-serif" font-size="16">THANK YOU FOR VISTING..</text>
+  <text x="676" y="648" fill="#6B7280" font-family="Arial, sans-serif" font-size="16">Subtotal</text>
+  <text x="920" y="648" fill="#111827" font-family="Arial, sans-serif" font-size="16" font-weight="700">Rs 79.96</text>
+  <text x="676" y="694" fill="#6B7280" font-family="Arial, sans-serif" font-size="16">Tax</text>
+  <text x="930" y="694" fill="#111827" font-family="Arial, sans-serif" font-size="16" font-weight="700">Rs 1.58</text>
+  <text x="676" y="740" fill="#6B7280" font-family="Arial, sans-serif" font-size="16">Discount</text>
+  <text x="920" y="740" fill="#111827" font-family="Arial, sans-serif" font-size="16" font-weight="700">Rs 0.00</text>
+  <line x1="676" y1="760" x2="974" y2="760" stroke="#FED7AA"/>
+  <text x="676" y="792" fill="#111827" font-family="Arial, sans-serif" font-size="18" font-weight="700">Total</text>
+  <text x="908" y="792" fill="#111827" font-family="Arial, sans-serif" font-size="18" font-weight="700">Rs 81.54</text>
+
+  <rect x="518" y="822" width="200" height="32" rx="10" fill="#E0F2FE"/>
+  <text x="618" y="843" text-anchor="middle" fill="#334155" font-family="Arial, sans-serif" font-size="16">Generated by Hisab Kitab</text>
+
+  <rect x="16" y="72" width="180" height="112" rx="14" fill="#F5F3FF" stroke="#D8B4FE" stroke-width="2"/>
+  <circle cx="46" cy="96" r="16" fill="#6D28D9"/>
+  <text x="46" y="103" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="700">1</text>
+  <text x="70" y="103" fill="#4C1D95" font-family="Arial, sans-serif" font-size="16" font-weight="700">Your Info</text>
+  <text x="34" y="136" fill="#374151" font-family="Arial, sans-serif" font-size="14">Your business details</text>
+  <text x="34" y="164" fill="#374151" font-family="Arial, sans-serif" font-size="14">will appear here.</text>
+  <path d="M194 122H252" stroke="#6D28D9" stroke-width="4" stroke-linecap="round"/>
+  <path d="M236 108L252 122L236 136" stroke="#6D28D9" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="1080" y="82" width="184" height="124" rx="14" fill="#EFF6FF" stroke="#93C5FD" stroke-width="2"/>
+  <circle cx="1108" cy="106" r="16" fill="#2563EB"/>
+  <text x="1108" y="113" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="700">2</text>
+  <text x="1134" y="113" fill="#2563EB" font-family="Arial, sans-serif" font-size="16" font-weight="700">Invoice Details</text>
+  <text x="1096" y="148" fill="#374151" font-family="Arial, sans-serif" font-size="14">Unique invoice number,</text>
+  <text x="1096" y="176" fill="#374151" font-family="Arial, sans-serif" font-size="14">date of invoice and</text>
+  <text x="1096" y="204" fill="#374151" font-family="Arial, sans-serif" font-size="14">due date.</text>
+  <path d="M1080 150H1020" stroke="#2563EB" stroke-width="4" stroke-linecap="round"/>
+  <path d="M1036 136L1020 150L1036 164" stroke="#2563EB" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="18" y="274" width="164" height="136" rx="14" fill="#F0FDF4" stroke="#86EFAC" stroke-width="2"/>
+  <circle cx="48" cy="300" r="16" fill="#22C55E"/>
+  <text x="48" y="307" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="700">3</text>
+  <text x="72" y="307" fill="#15803D" font-family="Arial, sans-serif" font-size="16" font-weight="700">Bill To</text>
+  <text x="36" y="340" fill="#374151" font-family="Arial, sans-serif" font-size="14">Customer's details</text>
+  <text x="36" y="368" fill="#374151" font-family="Arial, sans-serif" font-size="14">who will receive</text>
+  <text x="36" y="396" fill="#374151" font-family="Arial, sans-serif" font-size="14">this invoice.</text>
+  <path d="M182 342H252" stroke="#22C55E" stroke-width="4" stroke-linecap="round"/>
+  <path d="M236 328L252 342L236 356" stroke="#22C55E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="1082" y="310" width="176" height="144" rx="14" fill="#FFF7ED" stroke="#FBBF24" stroke-width="2"/>
+  <circle cx="1110" cy="336" r="16" fill="#F59E0B"/>
+  <text x="1110" y="343" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="700">4</text>
+  <text x="1134" y="343" fill="#D97706" font-family="Arial, sans-serif" font-size="16" font-weight="700">Payment Details</text>
+  <text x="1098" y="378" fill="#374151" font-family="Arial, sans-serif" font-size="14">Payment method</text>
+  <text x="1098" y="406" fill="#374151" font-family="Arial, sans-serif" font-size="14">and bank or UPI</text>
+  <text x="1098" y="434" fill="#374151" font-family="Arial, sans-serif" font-size="14">information.</text>
+  <path d="M1082 360H1028" stroke="#F59E0B" stroke-width="4" stroke-linecap="round"/>
+  <path d="M1044 346L1028 360L1044 374" stroke="#F59E0B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="20" y="472" width="162" height="162" rx="14" fill="#FAF5FF" stroke="#D8B4FE" stroke-width="2"/>
+  <circle cx="50" cy="498" r="16" fill="#7C3AED"/>
+  <text x="50" y="505" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="700">5</text>
+  <text x="74" y="505" fill="#7C3AED" font-family="Arial, sans-serif" font-size="16" font-weight="700">Items Table</text>
+  <text x="36" y="540" fill="#374151" font-family="Arial, sans-serif" font-size="14">List of items or</text>
+  <text x="36" y="568" fill="#374151" font-family="Arial, sans-serif" font-size="14">services, their</text>
+  <text x="36" y="596" fill="#374151" font-family="Arial, sans-serif" font-size="14">quantity, price</text>
+  <text x="36" y="624" fill="#374151" font-family="Arial, sans-serif" font-size="14">and total amount.</text>
+  <path d="M182 518H252" stroke="#7C3AED" stroke-width="4" stroke-linecap="round"/>
+  <path d="M236 504L252 518L236 532" stroke="#7C3AED" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="18" y="666" width="164" height="164" rx="14" fill="#EFF6FF" stroke="#93C5FD" stroke-width="2"/>
+  <circle cx="48" cy="692" r="16" fill="#3B82F6"/>
+  <text x="48" y="699" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="700">6</text>
+  <text x="72" y="699" fill="#2563EB" font-family="Arial, sans-serif" font-size="16" font-weight="700">Notes</text>
+  <text x="36" y="736" fill="#374151" font-family="Arial, sans-serif" font-size="14">Add any important</text>
+  <text x="36" y="764" fill="#374151" font-family="Arial, sans-serif" font-size="14">notes or thank</text>
+  <text x="36" y="792" fill="#374151" font-family="Arial, sans-serif" font-size="14">you message for</text>
+  <text x="36" y="820" fill="#374151" font-family="Arial, sans-serif" font-size="14">your customer.</text>
+  <path d="M182 730H252" stroke="#3B82F6" stroke-width="4" stroke-linecap="round"/>
+  <path d="M236 716L252 730L236 744" stroke="#3B82F6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="1072" y="642" width="178" height="178" rx="14" fill="#FFF1F2" stroke="#FDA4AF" stroke-width="2"/>
+  <circle cx="1100" cy="668" r="16" fill="#E11D48"/>
+  <text x="1100" y="675" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="700">7</text>
+  <text x="1126" y="675" fill="#E11D48" font-family="Arial, sans-serif" font-size="16" font-weight="700">Summary</text>
+  <text x="1088" y="712" fill="#374151" font-family="Arial, sans-serif" font-size="14">Breakdown of</text>
+  <text x="1088" y="740" fill="#374151" font-family="Arial, sans-serif" font-size="14">charges including</text>
+  <text x="1088" y="768" fill="#374151" font-family="Arial, sans-serif" font-size="14">subtotal, tax,</text>
+  <text x="1088" y="796" fill="#374151" font-family="Arial, sans-serif" font-size="14">discount and</text>
+  <text x="1088" y="824" fill="#374151" font-family="Arial, sans-serif" font-size="14">total amount.</text>
+  <path d="M1072 694H1018" stroke="#E11D48" stroke-width="4" stroke-linecap="round"/>
+  <path d="M1034 680L1018 694L1034 708" stroke="#E11D48" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="490" y="860" width="270" height="88" rx="16" fill="#F0F9FF" stroke="#93C5FD" stroke-width="2"/>
+  <circle cx="518" cy="888" r="16" fill="#38BDF8"/>
+  <text x="518" y="895" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="700">8</text>
+  <text x="544" y="895" fill="#38BDF8" font-family="Arial, sans-serif" font-size="16" font-weight="700">Footer</text>
+  <text x="508" y="924" fill="#374151" font-family="Arial, sans-serif" font-size="14">Shows that this invoice is generated</text>
+  <text x="508" y="948" fill="#374151" font-family="Arial, sans-serif" font-size="14">using Hisab Kitab.</text>
+  <path d="M618 858V824" stroke="#38BDF8" stroke-width="4" stroke-linecap="round"/>
+  <path d="M604 840L618 824L632 840" stroke="#38BDF8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
